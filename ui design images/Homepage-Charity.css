@@ -1,0 +1,384 @@
+/* Home Page */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Position 3 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+background: #E5E5E5;
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Image */
+
+position: absolute;
+width: 223px;
+height: 215px;
+
+background: url(alliance-american-arms-blue.jpg);
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Home Care... */
+
+position: absolute;
+width: 794px;
+height: 75px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Chairty 1 - Underlining */
+
+position: absolute;
+width: 768px;
+height: 0px;
+
+border: 3px solid #000000;
+
+
+/* Charity 1 - Spiel */
+
+position: absolute;
+width: 768px;
+height: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Position 2 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+background: #E5E5E5;
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Image */
+
+position: absolute;
+width: 223px;
+height: 215px;
+
+background: url(alliance-american-arms-blue.jpg);
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Home Care... */
+
+position: absolute;
+width: 794px;
+height: 75px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Chairty 1 - Underlining */
+
+position: absolute;
+width: 768px;
+height: 0px;
+
+border: 3px solid #000000;
+
+
+/* Charity 1 - Spiel */
+
+position: absolute;
+width: 768px;
+height: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Position 1 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1228px;
+height: 215px;
+
+background: #E5E5E5;
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Image */
+
+position: absolute;
+width: 223px;
+height: 215px;
+
+background: url(alliance-american-arms-blue.jpg);
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Charity 1 - Home Care... */
+
+position: absolute;
+width: 794px;
+height: 75px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Chairty 1 - Underlining */
+
+position: absolute;
+width: 768px;
+height: 0px;
+
+border: 3px solid #000000;
+
+
+/* Charity 1 - Spiel */
+
+position: absolute;
+width: 768px;
+height: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* URGENT */
+
+position: absolute;
+width: 239px;
+height: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+color: #FF0000;
+
+
+
+/* Header */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+
+
+
+/* Top Banner */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+
+background: rgba(0, 255, 178, 0.97);
+
+
+/* VolO - Volunteering for you! */
+
+position: absolute;
+width: 1269px;
+height: 120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+display: flex;
+align-items: center;
+
+color: #24FF00;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Login bouding box */
+
+position: absolute;
+width: 159px;
+height: 66px;
+
+background: #00CD6B;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 51px;
+
+
+/* CHARITY */
+
+position: absolute;
+width: 159px;
+height: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Notification Bell */
+
+position: absolute;
+width: 71px;
+height: 61px;
+
+background: url(1793800-200.png);
+
+
+/* Scroll Bar */
+
+position: absolute;
+width: 31px;
+height: 904px;
+
+
+
+/* Scroll Bar */
+
+position: absolute;
+width: 31px;
+height: 904px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Scroll Marker */
+
+position: absolute;
+width: 31px;
+height: 78px;
+
+background: #E5E5E5;
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Positions */
+
+position: absolute;
+width: 493px;
+height: 149px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #000000;
+
