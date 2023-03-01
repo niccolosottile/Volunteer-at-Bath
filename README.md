@@ -26,6 +26,6 @@ We are proud of the inclusion of a Google Maps API system as this was a new skil
 
 We have all deepened our knowledge and understanding of PHP, CSS and HTML and also learnt how to use new software to access this, including XAMPP and PhpMyAdmin. We have also developed our collaboration skills, working on code simultaneously and merging the changes together.
 
-What's next for Volunteer @Bath
+### What's next for Volunteer @Bath
 
 Given more development time we aim to expand out from Bath into alternative markets, add subscription service for larger companies as well as donation systems. We also would like to allow users to promote themselves on the platform as well as provide them with an optimized search algorithm for matching user and volunteering agencies
