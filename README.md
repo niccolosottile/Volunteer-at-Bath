@@ -1,5 +1,7 @@
 # Volunteer @ Bath
 
+<img width="1183" alt="Screenshot 2023-03-01 at 10 52 17" src="https://user-images.githubusercontent.com/98414012/222123104-5a435e4d-02d8-45ea-8144-2ddb94da1415.png">
+
 ### Inspiration
 
 We were inspired by the shortage of volunteers for charitable organisations and felt we could provide a solution for this by advertising and linking charities with users. We also felt like there was a gap in the services offered by universities to help their students find volunteering opportunities so wanted to have students as our initial target market but expand this with time.
