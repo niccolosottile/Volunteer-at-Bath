@@ -1,3 +1,5 @@
+# Volunteer @ Bath
+
 Inspiration
 
 We were inspired by the shortage of volunteers for charitable organisations and felt we could provide a solution for this by advertising and linking charities with users. We also felt like there was a gap in the services offered by universities to help their students find volunteering opportunities so wanted to have students as our initial target market but expand this with time.
